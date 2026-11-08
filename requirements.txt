@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+langchain-core>=0.2
+langchain-community>=0.2
+pytest>=8.0
+httpx>=0.27
